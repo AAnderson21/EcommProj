@@ -88,5 +88,5 @@ export const products = [
             ],
             "image": "forsale9.jpeg",
             "price": 3,500.00
-        },
+        }
     ]
