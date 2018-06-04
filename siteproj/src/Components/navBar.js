@@ -53,7 +53,7 @@ class NavBar extends Component {
                 </form>
                     <div>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" to="/">New around here? Sign up</a>
+                        <a class="dropdown-item" to="/">Sign up</a>
                         <a class="dropdown-item" to="/">Forgot password?</a>
                     </div>
                   </div>
